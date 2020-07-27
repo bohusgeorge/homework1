@@ -1,0 +1,22 @@
+body {
+    color: #220;
+    font-family: 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+
+h1 {
+    color: rgb(126, 109, 228);
+    font-weight: bold
+   ;
+   }
+   h2 {
+    color:red;
+    font-weight: bold
+   ;
+   }
+   h4 {
+    color:blueviolet;
+    font-weight: bold
+   ;
+   }
